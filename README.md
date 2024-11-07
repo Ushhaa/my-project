@@ -1,2 +1,3 @@
 ﻿Hello, Github!
-i am happpy to learn git hub
+I am happpy to learn Github
+GEC KR PET !!
